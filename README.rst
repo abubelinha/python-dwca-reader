@@ -20,3 +20,8 @@ The documentation has moved to: http://python-dwca-reader.readthedocs.org/.
 
 .. _Darwin Core Archive: http://en.wikipedia.org/wiki/Darwin_Core_Archive
 .. _GBIF: https://www.gbif.org
+
+Dependencies
+------------
+
+Python packages required: `typing`
